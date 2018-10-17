@@ -1,2 +1,2 @@
 # AND/OR Search
-The firt AI programming assignment.
+The first AI programming assignment.
